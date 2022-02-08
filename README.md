@@ -2,7 +2,7 @@
 
 > This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a Software developers conference summit page event that happened in 2022, A Loom video documentation for this project can be found here [Link to video documentation](https://www.loom.com/share/939894ce7136466cb4c183a865442740) 
 
-p style="display: flex; align-items: start; gap: 10px">
+<p style="display: flex; align-items: start; gap: 10px">
   <img src="Design/images/Project-scrennshot.PNG" width="100%" />
   <img src="Design/images/Project-scrennshot-1.PNG" width="100%" />
 </p>
@@ -22,7 +22,7 @@ My goal here is to Build a summit site from scratch, with focus on a mobile firs
 ### Features implemented:
 * Integration of style linters for CSS, web linters for html & Lighthouse for page optimization testing
 * Responsive mobile view and web view design using css media-queries, flex-box, and grids
-* Launched and deployed to github pages ([Live Demo]( https://abenezer-tilahun.github.io/Creative-Hub-Conference-page/)
+* Launched and deployed to github pages ([Live Demo]( https://abenezer-tilahun.github.io/Creative-Hub-Conference-page/))
 * Implemented navigation menu on mobile with JavaScript events
 * Dynamically load speakers section contents from JS objects
 * Dynamically load navigation header from JS, for a single header to be used across all pages.
