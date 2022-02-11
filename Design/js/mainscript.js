@@ -50,12 +50,12 @@ const speakersDOMElement = document.querySelector('.speakers');
   for (let i = 0; i < speakersArray.length; i += 1) {
     speakersDOMElement.innerHTML = `${speakersDOMElement.innerHTML}
     <li class="col-12 col-md-6 ${displayProps}">
-    <div class="row mb-5 p-4 bg-white">
-      <div class="col-3 speaker-block pr-0 pl-0">
+    <div class="row mb-5 p-4 bg-white align-items-start justify-content-start">
+      <div class="col-3 speaker-block pr-0 pl-0 ">
       <img class="img1" src=${speakersArray[i].img1} alt="">
         <img class="speaker-avatar" src=${speakersArray[i].imageLink} alt="Speaker">
       </div>
-      <div class="col-9 speaker-block pr-0 pl-4">
+      <div class="col-9 speaker-block pr-0 pl-4 align-items-center justify-content-center">
         <h3 class="mb-1 section-title font-weight-bold">${speakersArray[i].name}</h3>
         <p class="orange font-italic">${speakersArray[i].position}</p>
         <hr class="hr-speakers ml-0 mb-3">

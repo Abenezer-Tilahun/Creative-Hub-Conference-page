@@ -71,9 +71,34 @@ p {
   font-weight: 400;
 }
 
-.main_program {
-  background-image: url("../images/program-bg.jpg");
-  background-size: cover;
+.program {
+  margin-top: 90px;
+  background-image: url("../images/background-img-1.jpg");
+}
+
+.program-text {
+  background-image: url("../images/background-img-2.jpg");
+}
+
+.program-text h5 {
+  font-size: 3vh;
+}
+
+.program-text p {
+  font-size: 1.9vh;
+  color: white;
+}
+
+.program-footer {
+  z-index: 1;
+}
+
+.program img {
+  width: auto;
+}
+
+.program-text:hover {
+  border: 3px solid #fff;
 }
 
 a {
@@ -234,12 +259,12 @@ ul {
 
 .prev_1 {
   background-image: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url("../images/Sw.jpg");
-  background-size: cover;
+  background-size: contain;
 }
 
 .prev_2 {
   background-image: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url("../images/Sw2.jpeg");
-  background-size: cover;
+  background-size: contain;
 }
 
 @media screen and (max-width: 767px) {
@@ -256,22 +281,47 @@ ul {
     width: 70px;
   }
 
+  .program-text h5 {
+    font-size: 1.9vh;
+  }
+
+  .program-footer {
+    display: none;
+  }
+
+  .program-text:hover {
+    border: 3px solid #fff;
+  }
+
   .text-img-effect {
     font-size: 25px;
   }
 
+  .speaker-block {
+    align-items: flex-start;
+    justify-content: start;
+  }
+
   .speaker-block > h3 {
     font-size: 20px;
+    align-items: center;
+    justify-content: center;
   }
 
   .speaker-block > p {
     font-size: 15px;
+    align-items: center;
+    justify-content: center;
   }
 
   .speaker-avatar {
     width: 100px;
     height: 80px;
-    margin-left: -10px;
+    margin-left: -50px;
+  }
+
+  .img1 {
+    margin-left: -60px;
   }
 
   .hamburger_menu_icon {
@@ -331,6 +381,10 @@ ul {
     margin-left: -15px;
   }
 
+  .email {
+    margin-left: -60px;
+  }
+
   .intro {
     margin-top: -15px !important;
   }
@@ -345,6 +399,10 @@ ul {
     font-weight: 400;
     width: 100%;
     margin-left: 0%;
+  }
+
+  .card-wrapper {
+    margin-bottom: 30px;
   }
 
   .about_desc {

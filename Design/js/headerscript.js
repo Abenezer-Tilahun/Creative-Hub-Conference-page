@@ -46,7 +46,7 @@ const headerDOMElement = document.querySelector('.shared_header');
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pr-5" href="#Program"">
+            <a class="nav-link pr-5" href="#program"">
             Program 
             </a>
           </li>
@@ -74,7 +74,7 @@ const headerDOMElement = document.querySelector('.shared_header');
       <li class="menu_link closebtn"><a href="javascript:void(0)">&times;</a></li>
       <li class="menu_link"><a href="index.html" class="menulink">Home</a><hr class="section_title_hr"/></li>
       <li class="menu_link"><a href="about.html" class="menulink">About</a><hr class="section_title_hr"/></li>
-      <li class="menu_link"><a href="#Program"" class="menulink">Program</a><hr class="section_title_hr"/></li>
+      <li class="menu_link"><a href="#program"" class="menulink">Program</a><hr class="section_title_hr"/></li>
       <li class="menu_link"><a href="#speakers" class="menulink">Speakers </a><hr class="section_title_hr"/></li>
       <li class="menu_link"><a href="#Partners" class="menulink">Sponsor</a><hr class="section_title_hr"/></li>
     </ul>
