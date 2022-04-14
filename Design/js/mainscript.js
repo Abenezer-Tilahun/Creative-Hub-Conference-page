@@ -35,10 +35,10 @@ const speakersArray = [
     img1: 'Design/images/speaker-background.jpg',
   },
   {
-    name: 'Abrham Yifter',
+    name: 'Bereket Temesgen',
     position: 'Senior System Developer @ Excellarate',
     description: 'Over 4 years of well experienced  as System Developer at Spreedly building a PCI compliant API.',
-    imageLink: 'Design/images/Abrham.jpg',
+    imageLink: 'Design/images/Bereket.jpg',
     img1: 'Design/images/speaker-background.jpg',
   },
 ];
