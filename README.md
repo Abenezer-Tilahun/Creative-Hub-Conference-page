@@ -3,7 +3,7 @@
 > This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a Software developers conference summit page event that happened in 2022, A Loom video documentation for this project can be found here [Link to video documentation](https://www.loom.com/share/939894ce7136466cb4c183a865442740) 
 
 <p style="display: flex; align-items: start; gap: 10px">
-  <img src="Design/images/Project-screenshoot.gif" width="100%" />
+  <img src="Design/images/Project-screenshoot.gif" width="50%" />
 </p>
 
 My goal here is to Build a summit site from scratch, with focus on a mobile first design. take a peak at what i'v built [Live Demo]( https://abenezer-tilahun.github.io/Creative-Hub-Conference-page/). 😊
