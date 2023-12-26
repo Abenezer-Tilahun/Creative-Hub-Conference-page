@@ -1,3 +1,28 @@
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+
 # Software Developers Ethiopia Summit | Capstone Project - Module 1
 
 > This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a Software developers conference summit page event that happened in 2022, A Loom video documentation for this project can be found here [Link to video documentation](https://www.loom.com/share/939894ce7136466cb4c183a865442740) 
@@ -8,7 +33,8 @@
 
 My goal here is to Build a summit site from scratch, with focus on a mobile first design. take a peak at what i'v built [Live Demo]( https://abenezer-tilahun.github.io/Creative-Hub-Conference-page/). 😊
 
-## Contents
+
+### Key Features <a name="key-features"></a>
 
 * [Homepage](#homepage)
 * [About](#About)
@@ -35,13 +61,10 @@ My goal here is to Build a summit site from scratch, with focus on a mobile firs
 - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 - ESlint (A mighty, modern linter that helps you avoid errors and enforce conventions in JavaScript codes)
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-The basic requirements for building the executable are:
-* A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
-* VSCode or any other equivalent code editor
-* Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
+## 🚀 Live Demo <a name="live-demo"></a>
+
+My goal here is to Build a summit site from scratch, with focus on a mobile first design. take a peak at what i'v built [Live Demo]( https://abenezer-tilahun.github.io/Creative-Hub-Conference-page/). 😊
 
 # Getting Started
 
@@ -79,6 +102,15 @@ npm install --save-dev hint@6.x
 ```
 npx hint .
 ```
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+The basic requirements for building the executable are:
+* A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+* VSCode or any other equivalent code editor
+* Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
+
 ##### from parent source directory
 
 ## Authors
@@ -88,6 +120,11 @@ npx hint .
 - GitHub: [@githubhandle](https://github.com/Abenezer-Tilahun)
 - Twitter: [@twitterhandle](https://twitter.com/AbenezerTilah11)
 - LinkedIn: [LinkedIn](linkedin.com/in/abenezer-tilahun-4b4b43137)
+
+## 🔭 Future Features <a name="future-features"></a>
+- The program section page
+- The Featured Speaker page
+- The Sponsor Page
 
 ## Show your support
 
