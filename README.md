@@ -119,7 +119,7 @@ The basic requirements for building the executable are:
 
 - GitHub: [@githubhandle](https://github.com/Abenezer-Tilahun)
 - Twitter: [@twitterhandle](https://twitter.com/AbenezerTilah11)
-- LinkedIn: [LinkedIn](linkedin.com/in/abenezer-tilahun-4b4b43137)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abenezer-mesafint-a17a08230/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 - The program section page
