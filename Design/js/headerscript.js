@@ -46,17 +46,17 @@ const headerDOMElement = document.querySelector('.shared_header');
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pr-5" href="#program"">
+            <a class="nav-link pr-5" href="program.html"">
             Program 
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pr-5" href="#speakers">
+            <a class="nav-link pr-5" href="speakers.html">
             Speakers 
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pr-5" href="#Partners">
+            <a class="nav-link pr-5" href="Partners.html">
             Sponsor
             </a>
           </li>
